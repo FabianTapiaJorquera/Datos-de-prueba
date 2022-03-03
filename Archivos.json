@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "ReporteEmpresas_Al_03-01-2022_10-30-09.xlsx",
+    "ruta": "/fsDataLake/in",
+    "hoja": "Vencidos"
+  },
+  {
+    "nombre": "06-01-2022_ ReporteContratoCCG.xls",
+    "ruta": "/fsDataLake/in",
+    "hoja": "Contratos Derivados"
+  }
+]
